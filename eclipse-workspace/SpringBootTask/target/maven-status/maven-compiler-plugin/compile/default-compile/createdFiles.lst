@@ -1,0 +1,5 @@
+com\bbnf\springboottask\service\StudentService.class
+com\bbnf\springboottask\repository\StudentRepository.class
+com\bbnf\springboottask\controller\StudentResource.class
+com\bbnf\springboottask\CrudApp.class
+com\bbnf\springboottask\model\Student.class
